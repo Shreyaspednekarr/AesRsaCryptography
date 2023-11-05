@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AesRsaCryptography", "AesRsaCryptography.csproj", "{7EDD4669-446F-4143-A124-8E007C263F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesRsaCryptography.Business", "..\AesRsaCryptography.Business\AesRsaCryptography.Business.csproj", "{A0ED08D9-90FC-491E-AE09-AEFEC86D9FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesRsaCryptography.DataModel", "..\AesRsaCryptography.DataModel\AesRsaCryptography.DataModel.csproj", "{2F57C44F-6839-4FBF-9ADB-3E0F3897FD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDD4669-446F-4143-A124-8E007C263F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDD4669-446F-4143-A124-8E007C263F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDD4669-446F-4143-A124-8E007C263F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDD4669-446F-4143-A124-8E007C263F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0ED08D9-90FC-491E-AE09-AEFEC86D9FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0ED08D9-90FC-491E-AE09-AEFEC86D9FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0ED08D9-90FC-491E-AE09-AEFEC86D9FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0ED08D9-90FC-491E-AE09-AEFEC86D9FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F57C44F-6839-4FBF-9ADB-3E0F3897FD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F57C44F-6839-4FBF-9ADB-3E0F3897FD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F57C44F-6839-4FBF-9ADB-3E0F3897FD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F57C44F-6839-4FBF-9ADB-3E0F3897FD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE5543F-331D-4FC1-8781-A32670E757DB}
+	EndGlobalSection
+EndGlobal
